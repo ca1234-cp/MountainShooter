@@ -1,0 +1,4 @@
+from pygame.examples.grid import WINDOW_WIDTH, WINDOW_HEIGHT
+
+WINDOW_WIDTH = 576
+WINDOW_HEIGHT = 324
